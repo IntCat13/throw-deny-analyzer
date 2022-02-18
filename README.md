@@ -3,7 +3,7 @@
 ### Throw Statement denying
 Prohibits throw statement:
 
-![Example 1]https://i.imgur.com/vyAsbKe.png)
+![Example 1](https://i.imgur.com/vyAsbKe.png)
 
 ### Throw Expression denying
 Prohibits using "throw" like a part of expresssion:
